@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grafikaLab5", "grafikaLab5\grafikaLab5.csproj", "{9908D8AC-059C-435C-9316-3E19BB78BA26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9908D8AC-059C-435C-9316-3E19BB78BA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9908D8AC-059C-435C-9316-3E19BB78BA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9908D8AC-059C-435C-9316-3E19BB78BA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9908D8AC-059C-435C-9316-3E19BB78BA26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD2789E3-3EB4-4B33-91D5-9E5C849177D4}
+	EndGlobalSection
+EndGlobal
