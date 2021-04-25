@@ -81,9 +81,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\tukan.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\aurora.jpg" />
   </ItemGroup>
   <ItemGroup>
